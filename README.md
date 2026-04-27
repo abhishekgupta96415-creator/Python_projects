@@ -1,0 +1,1 @@
+This folder contains multiple Python GUI-based projects developed using the Tkinter library. Each file represents a standalone application demonstrating key concepts such as event-driven programming, user interactio and basic logic building.
